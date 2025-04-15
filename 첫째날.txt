@@ -1,0 +1,21 @@
+구성요소
+
+계정     > team       > project  > page  > layer
+ 
+           aaa       첫번째프로젝트
+공식사이트
+https://www.figma.com/
+문서
+https://help.figma.com/hc/ko
+다운로드
+https://www.figma.com/ko-kr/downloads/
+컴퓨터계정 > 드라이브 >  폴더    > 파일 > 구성요소
+
+
+
+화면제어
+마우스휠 스크롤 -> 상하이동
+ctrl + 마우스휠 스크롤 -> 화면크기 조절
+마우스휠 드래그 -> 화면이동
+
+
