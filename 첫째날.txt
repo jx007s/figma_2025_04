@@ -12,6 +12,9 @@ https://www.figma.com/ko-kr/downloads/
 컴퓨터계정 > 드라이브 >  폴더    > 파일 > 구성요소
 
 
+git
+https://github.com/jx007s/figma_2025_04
+
 
 화면제어
 마우스휠 스크롤 -> 상하이동
